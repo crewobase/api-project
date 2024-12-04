@@ -20,7 +20,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  cursor: pointer; border: 1px solid #0044ff;
+  cursor: pointer;
+  border: 1px solid #04f;
 }
 
 .items-two {
@@ -28,7 +29,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  cursor: pointer; border: 1px solid #eeff00;
+  cursor: pointer;
+  border: 1px solid #ef0;
 }
 
 .items-three {
@@ -36,7 +38,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  cursor: pointer; border: 1px solid #ff006a;
+  cursor: pointer;
+  border: 1px solid #ff006a;
 }
 
 .items-four {
@@ -44,7 +47,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
- cursor: pointer; border: 1px solid #00ffbf;
+  cursor: pointer;
+  border: 1px solid #00ffbf;
 }
 
 .items-five {
@@ -52,7 +56,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  cursor: pointer; border: 1px solid #f00;
+  cursor: pointer;
+  border: 1px solid #f00;
 }
 
 .items-six {
@@ -60,7 +65,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  cursor: pointer; border: 1px solid #5eff00;
+  cursor: pointer;
+  border: 1px solid #5eff00;
 }
 
 .page-content {
